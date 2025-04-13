@@ -10,5 +10,3 @@ I'm [Your Name]!
 - 📫 How to reach me: [Your contact information].
 - 😄 Pronouns: [Your pronouns].
 - ⚡ Fun fact: [A fun fact about you].
-
-[Your Name/Username]: [Your GitHub Profile URL (e.g., https://github.com/your-username)]
